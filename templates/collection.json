@@ -1,0 +1,45 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "collection_template": {
+      "type": "collection-template",
+      "settings": {
+        "select_style_bread": "style_5",
+        "ena_bg_img": true,
+        "bg_breadcrumb": "shopify://shop_images/bn4.2.png",
+        "bg_color_breadcrumb": "#ffffff",
+        "color_breadcrumb": "#ffffff",
+        "collection_layout": "bg_banner_mordern",
+        "prod_per_page": 12,
+        "prod_layout": "prod_grid",
+        "prod_per_row": "prod_col_3",
+        "filter_layout": "filter_collapse",
+        "sidebar_layout": "sidebar_left",
+        "ena_sticky_sidebar": true,
+        "ena_banner_mordern": false,
+        "big_title": "",
+        "mini_title": "",
+        "btn_title": "",
+        "bannerfull_url": "https://www.shopify.com/free-trial?ref=shopifycenter",
+        "color_title": "#ffffff",
+        "ena_best_seller": true,
+        "title_heading": "BEST SELLERS",
+        "select_collection": "frontpage",
+        "products_limit": 10,
+        "ena_filter": true,
+        "ena_filter2": true
+      }
+    }
+  },
+  "order": [
+    "collection_template"
+  ]
+}

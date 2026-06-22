@@ -1,0 +1,71 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "contact_template_3Bfp8G": {
+      "type": "contact-template",
+      "name": "Contact Us",
+      "settings": {
+        "bg_breadcrumb": "shopify://shop_images/banner-7.webp",
+        "enable_map": true,
+        "select_style_map": "style_image",
+        "image_map": "shopify://shop_images/Screenshot_2026-06-22_124345.png",
+        "link_map": "https://www.google.com/maps/@24.1592137,90.1572209,9z?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D",
+        "title_get_left": "CONTACT INFORMATION",
+        "des_get_left": "We do not sell product from our corporate headquarters in Dhaka City. If you want to visit, please reach out to our customer service team first.",
+        "url_mail": "help@example.com",
+        "title_follow": "Follow Us",
+        "url_twitter": "",
+        "url_face": "",
+        "url_insta": "",
+        "url_youtube": "",
+        "enable_follow": true,
+        "enable_s_contactform": true,
+        "contactform_title": "Contact Form",
+        "contactform_name": "Name",
+        "contactform_email": "Email address",
+        "contactform_content": "Your Message",
+        "contactform_btn": "Submit"
+      }
+    },
+    "section_newsletter_v1_7WN6zr": {
+      "type": "section-newsletter-v1",
+      "name": "NEWSLETTER V1",
+      "settings": {
+        "select_style": "style_3",
+        "select_width": "full",
+        "style_bg": "image",
+        "bg_color": "#f2f2f2",
+        "bg_newsletters": "shopify://shop_images/about-heading.png",
+        "img_banner": "shopify://shop_images/about-heading.png",
+        "bg_color_newletter": "",
+        "bg_color_inputnewletter": "",
+        "border_color_newletter": "#fff",
+        "url_banner": "shopify://collections/all",
+        "title_newletter": "GET UPDATE",
+        "color_title": "",
+        "content_newletter": "Subscribe our newsletter and get<br>discount 30% off",
+        "color_content": "",
+        "margin_top": "",
+        "margin_bottom": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "contact_template_3Bfp8G",
+    "section_newsletter_v1_7WN6zr"
+  ]
+}

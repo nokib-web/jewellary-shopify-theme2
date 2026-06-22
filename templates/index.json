@@ -1,0 +1,409 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "1645091101da87ec81": {
+      "type": "section-slideshow-v1",
+      "blocks": {
+        "16450911011592a2be-0": {
+          "type": "slideshow",
+          "settings": {
+            "select_position_content": "right",
+            "select_textalign_content": "left",
+            "block_title_top1": "Maybe you are interested",
+            "color_block_title_top1": "#ffffff",
+            "font_size_top1": 18,
+            "fonts_sub_1": "",
+            "effect_title1": "bounce",
+            "block_title_top": "pearl necklace",
+            "color_block_title_top": "#ffffff",
+            "font_size_title_top": 80,
+            "fonts_title_top": "",
+            "effect_title": "bounce",
+            "block_title_top2": "Jewelry By Winire",
+            "color_block_title_top2": "#ffffff",
+            "font_size_top2": 20,
+            "fonts_sub_2": "",
+            "effect_title2": "bounce",
+            "block_buton": "SHOP NOW",
+            "color_block_button": "#ffffff",
+            "font_size_button": 14,
+            "fonts_button": "",
+            "color_hover_button": "#ffffff",
+            "color_hover_text": "#000000",
+            "block_url": "shopify://collections/all",
+            "effect_title3": "bounce",
+            "ena_slide_video": false,
+            "url_ytb_video": "",
+            "block_banerimage": "shopify://shop_images/bn4.1.png"
+          }
+        },
+        "16450911011592a2be-1": {
+          "type": "slideshow",
+          "settings": {
+            "select_position_content": "left",
+            "select_textalign_content": "left",
+            "block_title_top1": "Maybe you are interested",
+            "color_block_title_top1": "#ffffff",
+            "font_size_top1": 18,
+            "fonts_sub_1": "",
+            "effect_title1": "bounce",
+            "block_title_top": "Earing Collection",
+            "color_block_title_top": "#ffffff",
+            "font_size_title_top": 80,
+            "fonts_title_top": "",
+            "effect_title": "bounce",
+            "block_title_top2": "Jewelry By Winire",
+            "color_block_title_top2": "#ffffff",
+            "font_size_top2": 20,
+            "fonts_sub_2": "",
+            "effect_title2": "bounce",
+            "block_buton": "SHOP NOW",
+            "color_block_button": "#ffffff",
+            "font_size_button": 14,
+            "fonts_button": "",
+            "color_hover_button": "#ffffff",
+            "color_hover_text": "#000000",
+            "block_url": "shopify://collections/all",
+            "effect_title3": "bounce",
+            "ena_slide_video": false,
+            "url_ytb_video": "",
+            "block_banerimage": "shopify://shop_images/bn4.2.png"
+          }
+        }
+      },
+      "block_order": [
+        "16450911011592a2be-0",
+        "16450911011592a2be-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "margin_top": "",
+        "margin_bottom": ""
+      }
+    },
+    "paralax_hero_U7dn3V": {
+      "type": "paralax-hero",
+      "blocks": {
+        "slide_nxrWqd": {
+          "type": "slide",
+          "settings": {
+            "bg_image": "shopify://shop_images/1necklace1_1.jpg",
+            "category": "Necklaces",
+            "subtitle": "Grace Redefined",
+            "bg_color": "#8c7356",
+            "product_image": "shopify://shop_images/necklaces-1_1.jpg",
+            "description": "Elevate every look with our exquisite necklaces. From pendants to chokers, these designs add sophistication.",
+            "button_label": "Shop Necklaces",
+            "button_link": ""
+          }
+        },
+        "slide_pFTTQH": {
+          "type": "slide",
+          "settings": {
+            "bg_image": "shopify://shop_images/43bespoke_1.jpg",
+            "category": "Rings",
+            "subtitle": "A Circle of Perfection",
+            "bg_color": "#c2b2a2",
+            "product_image": "shopify://shop_images/bespoke_1.jpg",
+            "description": "Celebrate every milestone with a ring that tells your story.",
+            "button_label": "Shop Rings",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide_nxrWqd",
+        "slide_pFTTQH"
+      ],
+      "name": "Prismara Hero Slider",
+      "settings": {
+        "show_socials": false,
+        "overlay_opacity": 20,
+        "text_alignment": "center",
+        "heading_color": "#ffffff",
+        "subtitle_color": "#c5a880",
+        "description_color": "#ffffff",
+        "social_color": "#ffffff",
+        "btn_border_color": "#c5a880",
+        "btn_text_color": "#ffffff",
+        "btn_hover_bg": "#c5a880",
+        "btn_hover_text": "#000000",
+        "heading_size": 5,
+        "subtitle_size": 1.5,
+        "desc_size": 1.1,
+        "heading_size_mobile": 3.5,
+        "subtitle_size_mobile": 1.2,
+        "desc_size_mobile": 1,
+        "arch_width": 320,
+        "arch_height": 480,
+        "arch_outline_offset": 15,
+        "arch_outline_color": "#ffffff",
+        "arch_width_mobile": 160,
+        "arch_height_mobile": 240,
+        "arch_outline_offset_mobile": 10
+      }
+    },
+    "featured_categories_NEW1": {
+      "type": "featured-categories",
+      "blocks": {
+        "cat_1": {
+          "type": "category",
+          "settings": {
+            "image": "shopify://shop_images/4bf96aab-b9c2-4959-a846-b4870effa15b.jpg",
+            "title": "New In",
+            "link": "shopify://products/9ct-yellow-white-gold-wide-huggie-earrings-16mm"
+          }
+        },
+        "cat_2": {
+          "type": "category",
+          "settings": {
+            "image": "shopify://shop_images/1ct_Oval_Lab_Grown_Diamond_Bezel_Engagement_Ring_9ct_Yellow_Gold.jpg",
+            "title": "Bracelets",
+            "link": "shopify://products/9ct-yellow-gold-0-87ct-lab-grown-diamond-ring"
+          }
+        },
+        "cat_3": {
+          "type": "category",
+          "settings": {
+            "image": "shopify://shop_images/9TE0043.jpg",
+            "title": "Earrings",
+            "link": "shopify://collections/necklace"
+          }
+        },
+        "cat_4": {
+          "type": "category",
+          "settings": {
+            "image": "shopify://shop_images/9YR0080-P.jpg",
+            "title": "Rings",
+            "link": "shopify://collections/ring-1"
+          }
+        },
+        "cat_5": {
+          "type": "category",
+          "settings": {
+            "image": "shopify://shop_images/9ct_Yellow_Gold_Plain_Cross_Pendant_16mm_x_10mm_Classic_Polished_Christian_Cross.jpg",
+            "title": "Necklaces",
+            "link": ""
+          }
+        },
+        "cat_6": {
+          "type": "category",
+          "settings": {
+            "image": "shopify://shop_images/ZE0316-ARIANNABR_1400x_41a69c6e-ff10-4288-a2c3-727f210dd087.webp",
+            "title": "Gift Ideas",
+            "link": "shopify://products/customized-rings-i9n-jewelry"
+          }
+        }
+      },
+      "block_order": [
+        "cat_1",
+        "cat_2",
+        "cat_3",
+        "cat_4",
+        "cat_5",
+        "cat_6"
+      ],
+      "settings": {
+        "title": "Our Categories",
+        "text": "Explore our collection of sophisticated, modern designs that make a statement without saying a word. Find your signature look today.",
+        "align_text": "center",
+        "grid_alignment": "center",
+        "circle_size": 170,
+        "item_gap": 30,
+        "image_shadow": false,
+        "image_border": false,
+        "hover_zoom": true,
+        "bg_color": "#ffffff",
+        "text_color": "#111111",
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "divider": false
+      }
+    },
+    "16450911148c93a08f": {
+      "type": "section-collection-v2",
+      "blocks": {
+        "16450911146e3e0546-2": {
+          "type": "colection",
+          "settings": {
+            "brand_img": "shopify://shop_images/bn4.5.png",
+            "title_collection": "Ring Collection",
+            "brand_url": "shopify://collections/ring-1"
+          }
+        },
+        "16450911146e3e0546-0": {
+          "type": "colection",
+          "settings": {
+            "brand_img": "shopify://shop_images/bn4.3.png",
+            "title_collection": "Necklace Collection",
+            "brand_url": "shopify://collections/necklace-1"
+          }
+        },
+        "16450911146e3e0546-1": {
+          "type": "colection",
+          "settings": {
+            "brand_img": "shopify://shop_images/bn4.4.png",
+            "title_collection": "Earing Collection",
+            "brand_url": "shopify://collections/necklace"
+          }
+        }
+      },
+      "block_order": [
+        "16450911146e3e0546-2",
+        "16450911146e3e0546-0",
+        "16450911146e3e0546-1"
+      ],
+      "settings": {
+        "margin_top": "",
+        "margin_bottom": "",
+        "title_heading": "Get 20% Off",
+        "color_title": "#000000"
+      }
+    },
+    "craftmanship_QAPAgb": {
+      "type": "craftmanship",
+      "name": "Craftsmanship Editorial",
+      "settings": {
+        "layout": "left",
+        "align_text": "left",
+        "image": "shopify://shop_images/43bespoke_1.jpg",
+        "subtitle": "EST. 1987",
+        "title": "Master Craftsmanship",
+        "text": "<p>Decades of experience go into every piece we create. Our master jewelers blend traditional techniques with modern precision to craft rings that will last a lifetime and beyond.</p>",
+        "button_label": "Our Story",
+        "button_link": ""
+      }
+    },
+    "1645091121a912a434": {
+      "type": "section-banner-v2",
+      "settings": {
+        "select_pos": "right",
+        "img_banner1": "shopify://shop_images/bn4.6.png",
+        "title_banner": "The Meaning Of Jewelry",
+        "color_title": "#222222",
+        "sub_title": "What better way to treat yourself or tell someone you love them thenwith a shimmering diamond bracelet?",
+        "color_sub_title": "#222222",
+        "button_1": "SHOP NOW",
+        "color_btn": "#ffffff",
+        "bg_btn": "#000000",
+        "color_btn_hover": "#000000",
+        "bg_btn_hover": "#ffffff",
+        "url_button1": "shopify://collections/all",
+        "margin_top": "",
+        "margin_bottom": ""
+      }
+    },
+    "16450911417db9310d": {
+      "type": "section-product-v3",
+      "settings": {
+        "title_heading": "Best Seller",
+        "color_title": "#222222",
+        "sub_title": "Best Seller Product This Week!",
+        "color_sub_title": "#666666",
+        "select_collection": "best-seller",
+        "products_limit": 8,
+        "margin_top": "",
+        "margin_bottom": ""
+      }
+    },
+    "1645091154942a0b26": {
+      "type": "section-countdown-v1",
+      "settings": {
+        "img_banner1": "shopify://shop_images/bn4.7.png",
+        "title-deal": "Hot deal of the day",
+        "color_title": "#ffffff",
+        "deal-to": "Jewelry Collection 50% Off",
+        "color_sub_title": "#ffffff",
+        "countdown-date": "2022-12-30-00-00-00",
+        "color_countdown": "",
+        "color_subcountdown": "",
+        "buttom_banner": "SHOP NOW",
+        "color_buttom_banner": "#111111",
+        "hovercolor_buttom_banner": "#ffffff",
+        "bgcolor_buttom_banner": "#ffffff",
+        "hoverbgcolor_buttom_banner": "#111111",
+        "button_banner_url": "shopify://collections/all",
+        "margin_top": "",
+        "margin_bottom": ""
+      }
+    },
+    "164509116656eeae90": {
+      "type": "section-blog-v3",
+      "disabled": true,
+      "settings": {
+        "section_title": "Our Blog",
+        "color_title": "#111111",
+        "select_blog": "news",
+        "blogs_limit": 2,
+        "enable_description": true,
+        "button_name": "Read More",
+        "margin_top": "",
+        "margin_bottom": ""
+      }
+    },
+    "layerd_image_UXwf3H": {
+      "type": "layerd-image",
+      "name": "Layered Images Showcase",
+      "settings": {
+        "image_1": "shopify://shop_images/bn4.3.png",
+        "image_2": "shopify://shop_images/bn4.5.png",
+        "image_3": "shopify://shop_images/bn4.4.png",
+        "image_radius": 0,
+        "image_shadow": true,
+        "initial_opacity": 0.4,
+        "initial_blur": 2,
+        "initial_grayscale": 40,
+        "hover_scale": 104,
+        "transition_speed": 0.5,
+        "layout": "left",
+        "align_text": "left",
+        "eyebrow": "Create Your Dream Jewellery",
+        "title": "Creates lasting memories of each occasion",
+        "text": "<p>Whether you're creating an engagement ring, remodelling a family heirloom, or designing a bespoke piece, our jewellers will guide you through every step.</p>",
+        "button_label": "Shop Now",
+        "button_link": "",
+        "button_style": "underline",
+        "btn_radius": 4,
+        "bg_color": "#dcdbdb",
+        "text_color": "#111111",
+        "padding_top": 80,
+        "padding_bottom": 80,
+        "divider": false
+      }
+    },
+    "16450911718f4db175": {
+      "type": "section-instagram-v2",
+      "disabled": true,
+      "settings": {
+        "section_title_big": "Instagram Shop",
+        "item_icon": "fa fa-instagram",
+        "ins_userid": "@nazmulhasan.nokib",
+        "ins_access_token": "",
+        "ins_limit_number": "10",
+        "margin_top": "",
+        "margin_bottom": ""
+      }
+    }
+  },
+  "order": [
+    "1645091101da87ec81",
+    "paralax_hero_U7dn3V",
+    "featured_categories_NEW1",
+    "16450911148c93a08f",
+    "craftmanship_QAPAgb",
+    "1645091121a912a434",
+    "16450911417db9310d",
+    "1645091154942a0b26",
+    "164509116656eeae90",
+    "layerd_image_UXwf3H",
+    "16450911718f4db175"
+  ]
+}
